@@ -6,11 +6,11 @@
   <img align="right" alt="GIF" src="coding-gif.gif" width="450" height="320" />
 
 - 🔭 I’m currently working on - **Backend Web Development**
-- 🌱 I’m currently learning - **Node.js**
-- 🚩 2021 Goals - **To Be an Expert in Node.js**
+- 🌱 Tech Stack - **Node.js Javascript Typescript SQL MONGODB**
+- 🚩 Goals - **Improve each day. EVOLVE EVOLVE EVOLVE**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: It's not a bug,it's a feature
-- 📫 Would love to connect :
+- ⚡ Fun fact: If it's not a bug, it's a feature
+- 📫 Would love to connect : https://www.linkedin.com/in/syed-basit-a-66176191/
 
   [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](https://www.linkedin.com/in/syed-basit-a-66176191) [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' height='25'>](https://www.instagram.com/syed_basit_ahmad?r=nametag)[<img src='https://img.icons8.com/windows/32/000000/globe-earth.png' height=28>](https://github.com/syedbasitahmad)
 
@@ -22,5 +22,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbasitahmad&theme=dark&hide=ruby)](https://github.com/syedbasitahmad/github-readme-stats)
+
 
