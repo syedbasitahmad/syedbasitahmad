@@ -23,3 +23,4 @@ AI Engineer & Backend Developer · Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-basit-a-66176191/)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Syed_Basit__)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@basitahmad4)
