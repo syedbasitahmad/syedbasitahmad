@@ -1,26 +1,46 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Syed Basit Ahmad.
+# Hi, I'm Syed Basit Ahmad 👋
 
----
+**AI Engineer & Backend Engineer** · Bengaluru, India
 
-  <img align="right" alt="GIF" src="coding-gif.gif" width="450" height="320" />
+Backend developer and AI engineer with 5+ years of experience building scalable, distributed services and APIs. Currently a Member of Technical Staff at **Aquera Labs**, leading a team of 5 on AI analytics: LLM agents, Text-to-SQL, MCP tooling and dashboards.
 
-- 🔭 I’m currently working on - **Backend Web Development**
-- 🌱 Tech Stack - **Node.js Javascript Typescript SQL MONGODB**
-- 🚩 Goals - **Improve each day. EVOLVE EVOLVE EVOLVE**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: If it's not a bug, it's a feature
-- 📫 Would love to connect : https://www.linkedin.com/in/syed-basit-a-66176191/
+## 🚀 What I work on
 
-  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](https://www.linkedin.com/in/syed-basit-a-66176191) [<img src='https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg' height='25'>](https://www.instagram.com/syed_basit_ahmad?r=nametag)[<img src='https://img.icons8.com/windows/32/000000/globe-earth.png' height=28>](https://github.com/syedbasitahmad)
+- 🤖 **LLM agents** with LangChain / LangGraph, MCP tool calling and agent evals
+- 🔎 **Text-to-SQL and RAG** over PostgreSQL, MySQL, Snowflake, Databricks and OpenSearch
+- ⚙️ **Backend systems**: multi-tenant APIs, event-driven pipelines, SSO / identity integrations
+- 🖼️ **GenAI inference**: Stable Diffusion on TensorRT + Triton, async FastAPI inference APIs
 
-<br />
+## 🧰 Tech Stack
 
-🧰 Languages and Tools
+**AI/ML:** LLM Agents · LangChain · LangGraph · MCP · RAG · pgvector · Text-to-SQL · PyTorch · MLflow
+**Languages & Frameworks:** Python · TypeScript · JavaScript · Go · Node.js · NestJS · FastAPI · React
+**Databases & Messaging:** PostgreSQL · MySQL · MongoDB · OpenSearch · Redis · Kafka · RabbitMQ
+**Cloud & DevOps:** AWS · Docker · Kubernetes · Prometheus · Grafana · CI/CD
 
-<img src='https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg' alt='Visual Studio Code' width="40" height="45"><img src='https://cdn.worldvectorlogo.com/logos/html5.svg' alt='HTML5' width="50" height="50"><img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS' width="50" height="50"> <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='Javascript' width="50" height="45"> <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='ReactJS' width="50" height="45"> <img src='https://cdn.worldvectorlogo.com/logos/nodejs-2.svg' alt='NodeJS' height='45' width='50' > <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' alt='ExpressJS' height='50' width='50'> <img src='https://cdn.worldvectorlogo.com/logos/npm.svg' alt='npm' height='35' width='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' atl='MySql' height='50' widhth='50'> <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' height='50' widht='50'> <img src='https://cdn.worldvectorlogo.com/logos/python-5.svg' height='50' width='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg' alt='Photoshop' height='50' width='50'>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
----
+## 🏆 Highlights
 
+- Performer of the Quarter (Q4 2025) at Aquera Labs, for a product showcased at the Gartner IAM Summit 2025
+- Best Performer of the Quarter at Skill Lync
+- CodeChef 3★ · HackerRank 6★
 
+## 📫 Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-basit-a-66176191/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Syed_Basit__)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:basitahmad4@gmail.com)
