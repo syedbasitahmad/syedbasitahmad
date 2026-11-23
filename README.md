@@ -4,7 +4,7 @@ AI Engineer & Backend Developer · Bengaluru, India
 
 - 🤖 Building with LLMs, agents and RAG
 - ⚙️ Backend APIs and distributed systems
-- 🌱 Always learning something new
+- 🌱 Evolving
 
 ### 🧰 Tech I use
 
